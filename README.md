@@ -1,5 +1,7 @@
 # Mouse Click Simulator 鼠标连点器
 
+[English](#english) | [中文](#中文)
+
 ## English
 
 A Python-based mouse auto-clicker with a graphical interface that allows you to automate mouse clicks at a customizable interval and count. The program can be controlled using configurable hotkeys (Ctrl+1-9 or Alt+1-9).
