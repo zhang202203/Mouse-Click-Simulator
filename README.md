@@ -5,7 +5,9 @@
 A Python-based mouse auto-clicker with a graphical interface that allows you to automate mouse clicks at a customizable interval and count. The program can be controlled using configurable hotkeys (Ctrl+1-9 or Alt+1-9).
 
 <img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/411e702e-b270-4dbd-babb-4c199821a891" />
-
+<div align="center">
+  <img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/411e702e-b270-4dbd-babb-4c199821a891" />
+</div>
 
 ### Features
 
